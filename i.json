@@ -5,12 +5,20 @@
   "author": "",
   "cover": "",
   "chapters": {
-    "238": {
-      "title": "238",
+    "54": {
+      "title": "54",
       "volume": "",
-      "last_updated": "1644029488",
+      "last_updated": "1644029591",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/4f335f99-6748-449f-82e7-8829c1620746"
+        "": "/proxy/api/mangadex/chapter/3e000a83-2d97-417b-b2c5-6315a179caef"
+      }
+    },
+    "55": {
+      "title": "55",
+      "volume": "",
+      "last_updated": "1644029621",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/ad521621-4001-4770-b50e-b8a311895199"
       }
     }
   }
